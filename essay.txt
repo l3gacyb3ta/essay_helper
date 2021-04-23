@@ -1,0 +1,31 @@
+Today I will be explaining noise cancelation and how it relates to our current waves unit. To do that, first I will cover the basics or waves, then interference, and finally cancellation. 
+
+All the concepts I am going to talk about today can also be applied to light, but light is hard to interfere with, these concepts are not used as much in real life. Really the only non-laboratory place you see interference in light is in the rainbow shimmer on oily water. 1  
+
+First, I will explain waves to you. Waves can take the form of both longitudinal and transverse waves 2 Sound waves are made of longitudinal waves and light is made of transverse waves. Transverse waves look a lot more like waves in the ocean sense. Longitudinal waves on the other hand are a lot more interesting for us. We can also visualize longitudinal waves as transverse waves, with corresponding frequencies, wavelengths, and amplitudes. 
+
+I will now talk about amplitude, wavelength, and frequency. 
+
+First, amplitude. Amplitude is a measure how “powerful” a wave is. In longitudinal waves, this is represented by a more squished compression, and in transverse waves this is represented by a “taller” wave. [Show this] The unit for measuring amplitude is decibels, even in the electromagnetic spectrum, except for light, which is the candela.  
+
+Wavelength is simple, it is just the distance from one crest or compression to another. [Show this] Usually this is measured in meters and its subunits. [Show this]  
+
+Then we have frequency. Frequency is the number of crests or compressions in one measurement of time, usually one second. The standard unit for this is Hz, which is just compressions/crests in one second.  
+
+Scattering is important to understanding passive noise cancellation it is the specular reflection of a wave from small segments of a rough surface. Specular in this case means having the properties of a mirror, or a reflective surface. [Blender specular slider] 
+
+Interference is used to describe what happens when two or more waves interact. Interference has two “flavors” if you will, constructive and destructive. For the purposes of easy explanation, I will be showing longitudinal waves as transverse waves.  
+
+Constructive interference happens when two waves of that are in sync, meaning that the crests overlap with each other. When this happens, the two waves effectively merge, creating a wave with a higher amplitude, thus making it louder, or brighter.  
+
+Destructive interference is the opposite, it happens when crests and troughs overlap, or compressions and rarefactions in longitudinal waves. The waves deduct from each other, [quieter heart noise] or even completely cancel out [flat line sound]. 
+
+And for passive interference, we must know about scattering. This is a useful property of sound. 
+
+So, that is the basics! On to noise cancellation, both active and passive. Passive noise cancellation has been around as a commercial product since the 1950s and was made for pilots in the 1940s [Old earmuff zoom]. It works by scattering away and absorbing the sound waves. This works similarly to blinds for light, which scatter, reflect, and absorb the light trying to get into your room. This is a simple method of reducing sound. 
+
+Active noise cancellation was first researched3 in the 1940s by the Germans4 but only became a consumer product in the early 2000s with the Bose QuietComfort5. It works by using hyper-fast sound processing systems to cancel out sounds by making an opposite wave form, thus quieting noise. 
+
+Noise cancellation systems are usually combined, by using nice, fluffy pads around the cups for passive and smart systems for active noise cancellation. 
+
+Thanks for learning about noise and noise cancelation with me! That’s all. 
